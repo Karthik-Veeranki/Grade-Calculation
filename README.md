@@ -1,6 +1,6 @@
 # Grade-Calculation
 
-Project title : Student Overall Performance Report Card Taking the marks from the student it returns his grades, CPI, and rank along with the overview of all students performance in a piechart and recommends the student to focus more on what, etc
+This is a Mini-project done in Python. The main concept is to give the Student Overall Performance Report Card taking the marks from the student which inturn returns his/her  grades, CPI (Cummulative Performance Index), and rank along with the overview of all students performance in a piechart and recommends the student to focus more on whichever course he/she is poor in, etc
 
 Team : Binary Beasts (BB) 
 
